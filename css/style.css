@@ -1,0 +1,93 @@
+.background_image{
+	position: relative;
+	height:700px;
+	margin-top: 58px;
+	background-position: center; 
+  	background-repeat: no-repeat; 
+  	background-size: cover; 
+}
+/*.navbar{
+    box-shadow: 0px 8px 8px -6px rgba(0,0,0,2);
+    }*/
+/*.navbar {
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+
+    /* the rest of your styling */
+/*}*/
+#title{
+	color:black;
+	text-align: center;
+	/*font-family: 'Lora',serif;*/
+	font-family: 'Castoro', serif;
+}
+/*.first_page{
+
+  text-shadow: 0 0 3px  #448ee4;
+
+}*/
+#about_university{
+	text-align: center;
+}
+#third_template{
+	text-align: center;
+	background-color: #f6f6f6;
+	border-right: red;
+	padding-top: 3%;
+}
+.college{
+	padding-top: 3%;
+	padding-bottom: 0.5%;
+	letter-spacing: 0.15rem;
+	text-shadow: 0 0 3px  #448ee4;
+
+}
+.ncc_name{
+	text-shadow: 0 0 3px #FF0000;;
+	/*padding-top: 10%;*/
+	letter-spacing: 0.5rem;
+
+}
+.university_log{
+	text-align: center;
+	padding-top: 2%;
+	
+}
+.ncc_log{
+	padding-top: 2%;
+	text-align: center;
+}
+.unit_name{	text-shadow: 0 0 3px #FF0000;
+}
+.title_university{
+	text-align: center;
+	padding-top: 5%;
+}
+.paragraph_about_university{
+	text-align: center;
+	padding: 3% 10% 1% 10%;
+}
+
+.button_left{
+	text-align: center;
+	padding: 3% 50% 2% 50%;
+
+}
+.button_right{
+	text-align: center;
+	padding: 3% 50% 2% 50%;
+}
+.button_middle{
+	text-align: center;
+	padding: 3% 50% 2% 50%;
+}
+.button_university{
+	padding-bottom: 5%;
+}
+.about_us_ncc{
+	padding:4% 20% 4% 20%;
+	text-align: left;
+
+}
+

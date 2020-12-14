@@ -1,0 +1,176 @@
+.background_image{
+	height: 700px;
+	background-image: url('image1/nccprofilephoto.jpg');
+	position: relative;
+	background-position: center; 
+  	background-repeat: no-repeat; 
+  	background-size: cover; 
+}
+@media screen and (	max-width: 650px) {
+	.background_image {
+	/*background-color: Black;*/
+	height: 900px;
+	background-image: url('image1/nccprofilephoto.jpg');
+	position: relative;
+	/*margin-top: 58px;*/
+	background-position: center; 
+  	background-repeat: repeat; 
+  	background-size: cover; 
+}
+}
+#title{
+	color:#001A0D;
+	text-align: center;
+	/*font-family: 'Lora',serif;*/
+	font-family: 'Castoro', serif;
+}
+#logo{ 
+	position:fixed;
+	font-size: 300%;
+	bottom:0; 
+	right:0; 
+	z-index: 10;
+} 
+.ncc_name{
+	padding-top:7%;
+	text-shadow: 0 0 3px #FF0000;;
+	/*padding-top: 10%;*/
+	letter-spacing: 0.5rem;
+	font-size:50px;
+
+}
+@media screen and (	max-width: 650px) {
+	.ncc_name{
+	padding-top:5%;
+	text-shadow: 0 0 3px #FF0000;;
+	/*padding-top: 10%;*/
+	letter-spacing: 0.5rem;
+	font-size:30px;
+
+}
+
+}
+
+.university_log{
+	text-align: center;
+	padding-top: 5%;
+	
+}
+@media screen and (	max-width: 650px) {
+.university_log{
+	text-align: center;
+	padding-top: 7%;
+	
+}
+
+}
+.ncc_log{
+	padding-top: 5%;
+	
+	text-align: center;
+}
+.Member_title{
+	padding-top: 2%;
+	text-shadow: 0 0 3px  #448ee4;
+}
+/*#first_batch{
+	background-color: Black;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	text-shadow: 0 0 3px  #448ee4;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-bottom: 10%;
+	/*font-family: 'Lora',serif;*/
+	/*font-family: 'Castoro', serif;*/
+/*}*/
+.first_batch_name{
+	padding-top: 15%;
+	padding-bottom: 10%;
+	background-color: Black;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	text-shadow: 0 0 3px  #448ee4;
+}
+#first_batch_gap{
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-bottom: 10%;
+	background-color: Black;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	text-shadow: 0 0 3px  #448ee4;
+
+}
+@media screen and (	max-width: 650px) {
+#first_batch_gap{
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 10%;
+	background-color: Black;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	text-shadow: 0 0 3px  #448ee4;
+
+}
+
+}
+
+.cadet_title{
+	padding-top: 2%;
+	padding-bottom: 4%;
+	letter-spacing: 0.25rem;
+	text-shadow: 0 0 3px #FF0000;;
+}
+.photo_row{
+	padding-bottom:10%;
+
+}
+@media screen and (	max-width: 650px) {
+	.photo_row{
+	padding-bottom:30%;
+}
+
+}
+
+.image_setting{
+	width: 250px;
+	height: 300px;
+}
+@media screen and (	max-width: 650px) {
+	.image_setting{
+	width: 400px;
+	height: 500px;
+}
+
+}
+.directid{
+	margin:20px 10px;
+	font-size: 150%;
+
+}
+#our_contact{
+	background-color: Black;
+	color: #fff;
+	text-align: center;
+
+}
+ .second_space{
+ 	padding-top: 3%;
+ 	padding-bottom: 10%;
+ }
+ .contact_detail_name{
+ 	padding-top: 4%;
+ 	color:#1865E7;
+ }
+.footer_ncc{
+	padding-top: 4%;
+}
+.spaceid{
+	padding-bottom:4%;
+	padding-top: 4%;
+}
+.copyright{
+	padding-top: 10%;
+	padding-bottom: 2%;
+}
